@@ -9,7 +9,7 @@ encoding: utf-8
 # Setup
 title:               My Website
 #tagline:             'foo's website
-description:         Foo's blog...
+description:         Wei Wang's blog...
 url: https://dyndna.github.io/lanyon-plus
 baseurl: "/lanyon-plus"
 urlimg: https://dyndna.github.io/lanyon-plus/images/
