@@ -3,109 +3,20 @@ layout: default
 ---
 <section class="hero is-primary">
     <div class="hero-body">
-        <div class="container is-fluid">
+        <div class="container">
             <h1 class="title">
                 {{ page.title }}
             </h1>
             <h2 class="subtitle">
-                {{ page.description }}
+                {{ page.description | markdownify }}
             </h2>
         </div>
     </div>
 </section>
 <section class="section">
-    <div class="container is-fluid">
-        <div class="content">
-            {{ content }}
+    <div class="container">
+        <div class="box content">
+            {{ page.content }}
         </div>
     </div>
 </section>
-{% if site.author.show_on_post or page.comments %}
-<div class="section">
-    <div class="container is-fluid">
-
-        {% if site.author.show_on_post %}
-        <div class="box">
-            <div class="media">
-                <div class="media-left">
-                    <figure class="image is-64x64">
-                        <img src="{{ site.author.image }}" alt="{{ site.author.name }}">
-                    </figure>
-                </div>
-                <div class="media-content">
-                    <div class="content">
-                        <p>
-                            <strong>{{ site.author.name }}</strong>
-                            <br>
-                            {{ site.author.bio }}
-                        </p>
-                    </div>
-                    <p>
-                        {% if site.author.github %}
-                        <a href="https://github.com/{{ site.author.github }}">
-                                <span class="icon is-small">
-                                    <i class="fa fa-github"></i>
-                                </span>
-                        </a>
-                        {% endif %}
-                        {% if site.author.facebook %}
-                        <a href="https://facebook.com/{{ site.author.facebook }}">
-                                <span class="icon is-small">
-                                    <i class="fa fa-facebook"></i>
-                                </span>
-                        </a>
-                        {% endif %}
-                        {% if site.author.twitter %}
-                        <a href="https://twitter.com/{{ site.author.twitter}}">
-                                <span class="icon is-small">
-                                    <i class="fa fa-twitter"></i>
-                                </span>
-                        </a>
-                        {% endif %}
-                        {% if site.author.instagram %}
-                        <a href="https://instagram.com/{{ site.author.instagram}}">
-                                <span class="icon is-small">
-                                    <i class="fa fa-instagram"></i>
-                                </span>
-                        </a>
-                        {% endif %}
-                        {% if site.author.tumblr %}
-                        <a href="https://tumblr.com/{{ site.author.tumblr}}">
-                                <span class="icon is-small">
-                                    <i class="fa fa-tumblr"></i>
-                                </span>
-                        </a>
-                        {% endif %}
-                    </p>
-                </div>
-            </div>
-        </div>
-        {% endif %}
-
-        {% if page.comments %}
-            <div class="box">
-            <div id="disqus_thread"></div>
-            <script>
-            
-            /**
-            *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR             PLATFORM OR CMS.
-            *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables         */
-            /*
-            var disqus_config = function () {
-            this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-            this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-            };
-            */
-            (function() { // DON'T EDIT BELOW THIS LINE
-            var d = document, s = d.createElement('script');
-            s.src = 'https://weiwang881108.disqus.com/embed.js';
-            s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-            })();
-            </script>
-            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                    </div>
-                    {% endif %}
-                </div>
-            </div>
-        {% endif %}         

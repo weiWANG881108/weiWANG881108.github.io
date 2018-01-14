@@ -1,2 +1,0 @@
-## Wei Wang's blog
-
