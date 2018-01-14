@@ -1,4 +1,4 @@
-$nav-height: 3.25rem !default
+$nav-height: 3.5rem !default
 
 // Components
 
@@ -15,13 +15,14 @@ $nav-height: 3.25rem !default
   flex-shrink: 0
   font-size: $size-normal
   justify-content: center
-  line-height: 1.5
   padding: 0.5rem 0.75rem
   a
     flex-grow: 1
     flex-shrink: 0
   img
     max-height: 1.75rem
+  .button + .button
+    margin-left: 0.75rem
   .tag
     &:first-child:not(:last-child)
       margin-right: 0.5rem
@@ -31,8 +32,8 @@ $nav-height: 3.25rem !default
   +mobile
     justify-content: flex-start
 
-.nav-item a:not(.button),
-a.nav-item:not(.button)
+.nav-item a,
+a.nav-item
   color: $text-light
   &:hover
     color: $link-hover
@@ -42,17 +43,17 @@ a.nav-item:not(.button)
   &.is-tab
     border-bottom: 1px solid transparent
     border-top: 1px solid transparent
-    padding-bottom: calc(0.75rem - 1px)
+    padding-bottom: calc(0.5rem - 1px)
     padding-left: 1rem
     padding-right: 1rem
-    padding-top: calc(0.75rem - 1px)
+    padding-top: calc(0.5rem - 1px)
     &:hover
       border-bottom-color: $primary
       border-top-color: transparent
     &.is-active
       border-bottom: 3px solid $primary
       color: $primary
-      padding-bottom: calc(0.75rem - 3px)
+      padding-bottom: calc(0.5rem - 3px)
   // Responsiveness
   +desktop
     &.is-brand
@@ -60,24 +61,38 @@ a.nav-item:not(.button)
 
 // Containers
 
+.nav-menu
+  // Responsiveness
+  +mobile
+    background-color: $white
+    box-shadow: 0 4px 7px rgba($black, 0.1)
+    left: 0
+    display: none
+    right: 0
+    top: 100%
+    position: absolute
+    .nav-item
+      border-top: 1px solid rgba($border, 0.5)
+      padding: 0.75rem
+    &.is-active
+      display: block
+  +tablet-only
+    padding-right: 1.5rem
+
+
 .nav-left,
 .nav-right
-  +overflow-touch
   align-items: stretch
-  display: flex
+  flex-basis: 0
   flex-grow: 1
   flex-shrink: 0
-  max-width: 100%
-  overflow: auto
-  +widescreen
-    flex-basis: 0
 
 .nav-left
+  display: flex
   justify-content: flex-start
+  overflow: hidden
+  overflow-x: auto
   white-space: nowrap
-
-.nav-right
-  justify-content: flex-end
 
 .nav-center
   align-items: stretch
@@ -88,22 +103,11 @@ a.nav-item:not(.button)
   margin-left: auto
   margin-right: auto
 
-.nav-menu
+.nav-right
+  justify-content: flex-end
   // Responsiveness
-  +mobile
-    &.nav-right
-      background-color: $white
-      box-shadow: 0 4px 7px rgba($black, 0.1)
-      left: 0
-      display: none
-      right: 0
-      top: 100%
-      position: absolute
-      .nav-item
-        border-top: 1px solid rgba($border, 0.5)
-        padding: 0.75rem
-      &.is-active
-        display: block
+  +tablet
+    display: flex
 
 // Main container
 
@@ -111,10 +115,10 @@ a.nav-item:not(.button)
   align-items: stretch
   background-color: $white
   display: flex
-  height: $nav-height
+  min-height: $nav-height
   position: relative
   text-align: center
-  z-index: 10
+  z-index: 2
   & > .container
     align-items: stretch
     display: flex

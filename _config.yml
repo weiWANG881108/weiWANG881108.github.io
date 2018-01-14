@@ -1,34 +1,34 @@
-name: Wei WANG
-description: 
-baseurl: /
-url: http://weiWANG881108.github.io
-download: 
+name: Jekyll Bulma
+description: "Jekyll Bulma Theme, Bulma.io CSS Framework Jekyll Template for Developers"
+baseurl: /jekyll-bulma
+url: http://erayaydin.github.io
+download: "https://github.com/erayaydin/jekyll-bulma/archive/master.zip"
 social:
-  github: weiWANG881108
-  email: wangwei881108@mail.com
+  github: erayaydin
+  email: aydineray@mail.com
   facebook:
-  twitter:
+  twitter: erayaydi
   instagram:
   tumblr:
 author:
-  name: Wei WANG
-  bio: "Machine Learning"
-  email: wangwei881108@mail.com
+  name: Eray AYDIN
+  bio: "Senior PHP Developer and Linux System Administrator, Free Software Fan, Archy (On Way Trust User), Junior Game Developer"
+  email: aydineray@mail.com
   image: /assets/images/author.jpg
-  github: weiWANG881108
-  facebook: 
-  twitter: 
+  github: erayaydin
+  facebook: erayaydi
+  twitter: erayaydi
   instagram:
   tumblr:
   show_on_post: true
-permalink: /:categories/:title/
+
 sass:
   style: compressed
 paginate: 5
 paginate_path: "/:num/"
 markdown: kramdown
 
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-gist
@@ -39,4 +39,3 @@ exclude:
   - README.md
   - LICENSE
   - CNAME
-  - vendor

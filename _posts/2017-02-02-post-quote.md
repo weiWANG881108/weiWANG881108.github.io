@@ -2,7 +2,7 @@
 layout: post
 title: Post - Quote
 categories:
-    - Post
+    - post
 comments: true
 permalink: quote.html
 ---

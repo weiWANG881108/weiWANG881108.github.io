@@ -1,2 +1,2 @@
-## Wei Wang's blog
+## Bulma Jekyll Theme
 
