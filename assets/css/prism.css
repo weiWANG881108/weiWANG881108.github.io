@@ -64,7 +64,7 @@ pre[class*="language-"] {
 }
 
 .token.property,
-.token.code-tag,
+.token.tag,
 .token.constant,
 .token.symbol,
 .token.deleted {
@@ -72,7 +72,7 @@ pre[class*="language-"] {
 }
 
 .token.boolean,
-.token.code-number {
+.token.number {
 	color: #ae81ff;
 }
 

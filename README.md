@@ -1,3 +1,2 @@
-## Eray Aydın
+## Wei Wang's blog
 
-Personal Blog

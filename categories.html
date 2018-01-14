@@ -19,7 +19,7 @@ layout: default
             {% for category in site.categories %}
             {% capture category_name %}{{ category | first }}{% endcapture %}
             <p class="menu-label" id="category-{{ category | first | slugize }}">
-                <a href="#category-{{ category | first | slugize }}"><i class="fa fa-anchor"></i></a> {{ category | first }}
+                {{ category | first }}
             </p>
             <ul class="menu-list">
                 {% for post in site.categories[category_name] %}
