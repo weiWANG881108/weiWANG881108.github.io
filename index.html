@@ -30,18 +30,18 @@ layout: default
                 <h3 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
                 <p class="post-categories">
                     {% for category in post.categories %}
-                    <a href="/{{ category | prepend: site.baseurl }}" class="tag {% if site.data.category[category].color %} is-{{ site.data.category[category].color }} {% endif %}">{{ category }}</a>
+                    <a href="/categories/#category-{{ category | prepend: site.baseurl }}" class="tag {% if site.data.category[category].color %} is-{{ site.data.category[category].color }} {% endif %}">{{ category }}</a>
                     {% endfor %}
                 </p>
-                {{ post.excerpt }}
+                {{ post.description | markdownify }}
                 <p><small>02.02.2017 - 06:36</small></p>
             </div>
         </div>
         <br>
         {% endfor %}
         <nav class="pagination is-centered">
-            <a {% if paginator.previous_page %}href="..{{  paginator.previous_page_path }}"{% endif %} class="pagination-previous {% if paginator.previous_page %}{% else %} is-disabled {% endif %}">Previous</a>
-            <a {% if paginator.next_page %}href="..{{  paginator.next_page_path }}"{% endif %} class="pagination-next {% if paginator.next_page %}{% else %} is-disabled {% endif %}">Next</a>
+            <a {% if paginator.previous_page %}href="{{ site.baseurl }}{{  paginator.previous_page_path }}"{% endif %} class="pagination-previous {% if paginator.previous_page %}{% else %} is-disabled {% endif %}">Önceki Yazılar</a>
+            <a {% if paginator.next_page %}href="{{ site.baseurl }}{{  paginator.next_page_path }}"{% endif %} class="pagination-next {% if paginator.next_page %}{% else %} is-disabled {% endif %}">Sonraki Yazılar</a>
             <ul class="pagination-list">
                 {% for page in (1..paginator.total_pages) %}
                 <li>
