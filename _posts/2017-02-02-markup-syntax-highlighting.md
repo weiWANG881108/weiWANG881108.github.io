@@ -1,4 +1,3 @@
-@@ -1,88 +0,0 @@
 ---
 layout: post
 title: Markup - Syntax Highlighting

@@ -1,4 +1,3 @@
-@@ -1,12 +0,0 @@
 ---
 layout: post
 title: Post - Quote

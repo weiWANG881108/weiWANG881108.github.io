@@ -1,4 +1,3 @@
-@@ -1,36 +0,0 @@
 ---
 layout: post
 title: Markup - Post with Images
