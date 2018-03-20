@@ -1,0 +1,41 @@
+name: Wei Wang
+description: 
+baseurl: /
+url: http://weiWANG881108.github.io
+download: 
+social:
+  github: weiWANG881108
+  email: wangwei881108@mail.com
+  facebook:
+  twitter: 
+  instagram:
+  tumblr:
+author:
+  name: Wei Wang
+  bio: "Machine Learning"
+  email: wangwei881108@mail.com
+  image: /assets/images/author.jpg
+  github: weiWANG881108
+  facebook: 
+  twitter: 
+  instagram:
+  tumblr:
+  show_on_post: true
+
+sass:
+  style: compressed
+paginate: 5
+paginate_path: "/:num/"
+markdown: kramdown
+
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-gist
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
