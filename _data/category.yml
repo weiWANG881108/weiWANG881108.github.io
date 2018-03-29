@@ -1,12 +1,16 @@
-jekyll:
-  name: jekyll
+LeetCode:
+  name: LeetCode
   image: /assets/images/categories/jekyll.png
   color: info
-post:
-  name: Post
+NLP:
+  name: Natural Language Processing
   image: /assets/images/categories/post.png
   color: success
-markup:
-  name: Markup
+ML:
+  name: Machine Learning
+  image: /assets/images/categories/markup.png
+  color: primary
+Kaggle:
+  name: Kaggle
   image: /assets/images/categories/markup.png
   color: primary
