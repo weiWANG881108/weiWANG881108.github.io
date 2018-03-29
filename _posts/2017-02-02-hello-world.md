@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-description: Description of the post.
+title: TalkingData AdTracking Fraud Detection Challenge
+description: 商业欺诈
 categories:
     - Kaggle
 comments: true
