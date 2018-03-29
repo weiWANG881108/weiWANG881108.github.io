@@ -3,14 +3,14 @@ LeetCode:
   image: /assets/images/categories/jekyll.png
   color: info
 NLP:
-  name: Natural Language Processing
+  name: NLP
   image: /assets/images/categories/post.png
   color: success
 ML:
-  name: Machine Learning
+  name: MLs
   image: /assets/images/categories/markup.png
   color: primary
 Kaggle:
   name: Kaggle
   image: /assets/images/categories/markup.png
-  color: primary
+  color: info
