@@ -10,4 +10,8 @@ ML:
   name: MLs
   image: /assets/images/categories/markup.png
   color: primary
+Leetcode:
+  name: Leetcode
+  image: /assets/images/categories/markup.png
+  color: dark
 
