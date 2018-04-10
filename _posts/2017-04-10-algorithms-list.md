@@ -36,6 +36,7 @@ permalink:
   *  ---
   *  构建乘积数组
   *  矩阵链相乘
+  *  走棋盘
   *  完美洗牌算法
   *  顺时针打印矩阵
   *  把数组排成最小的数
@@ -86,6 +87,7 @@ permalink:
   *  按之字形顺序打印二叉树
   *  二叉搜索树的第K个节点
   *  最近公共祖先
+  *  重建二叉树
 {: .notification .is-danger}
 
 ## 图论
@@ -102,3 +104,5 @@ permalink:
   *  最小生成树 -- Kruskal算法
   *  拓扑排序(Topological sort)
 {: .notification .is-info}
+
+
