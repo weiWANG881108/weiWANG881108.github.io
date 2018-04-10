@@ -35,6 +35,7 @@ permalink:
   *  最长递增子序列
   *  ---
   *  构建乘积数组
+  *  矩阵链相乘
   *  完美洗牌算法
   *  顺时针打印矩阵
   *  把数组排成最小的数
@@ -69,6 +70,7 @@ permalink:
   *  字符串循环左移
   *  KMP算法
   *  字符串的最长回文字串
+  *  字符串的交替连接
 {: .notification .is-primary}
 
 ## 树
@@ -83,10 +85,20 @@ permalink:
   *  把二叉树打印成多行
   *  按之字形顺序打印二叉树
   *  二叉搜索树的第K个节点
+  *  最近公共祖先
 {: .notification .is-danger}
 
 ## 图论
   *  广度优先算法
   *  深度优先算法
-  *  
+  *  单词变换问题
+  *  回文划分问题
+  *  八皇后问题
+  *  数独Sudoku
+  *  Dijkstra算法--单源最短路径问题，非负长度的有向图
+  *  Bellman-ford算法--带负权的最短路径
+  *  所有点对的最短路径问题
+  *  最小生成树 -- Prim算法
+  *  最小生成树 -- Kruskal算法
+  *  拓扑排序(Topological sort)
 {: .notification .is-info}
