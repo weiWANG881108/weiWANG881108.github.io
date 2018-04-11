@@ -10,7 +10,7 @@ permalink:
 给自己已经掌握的算法列个清单
 
 ## 数组
-  *  [二维数组中查找]
+  *  二维数组中查找
   *  二分查找
   *  查找旋转数组的最小值
   *  ---
@@ -95,6 +95,7 @@ permalink:
   *  深度优先算法
   *  单词变换问题
   *  回文划分问题
+  *  周围区域问题
   *  八皇后问题
   *  数独Sudoku
   *  Dijkstra算法--单源最短路径问题，非负长度的有向图
@@ -104,5 +105,3 @@ permalink:
   *  最小生成树 -- Kruskal算法
   *  拓扑排序(Topological sort)
 {: .notification .is-info}
-
-[二维数组中查找]: https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection#evaluation
