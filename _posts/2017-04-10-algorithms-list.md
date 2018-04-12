@@ -19,8 +19,8 @@ permalink:
   *  最小的K个数
   *  寻找中项和第K大元素 Leetcode 215 `2`
   *	 ---
-  *  调整数组顺序使奇数位于偶数前面
-  *  荷兰国旗问题
+  *  调整数组顺序使奇数位于偶数前面  剑指offer `2`
+  *  荷兰国旗问题 Leetcode 215 `75`
   *  ---
   *  数组中出现次数超过一半的数字
   *  数字在排序数组中出现的次数
@@ -107,3 +107,8 @@ permalink:
   *  最小生成树 -- Kruskal算法
   *  拓扑排序(Topological sort)
 {: .notification .is-info}
+
+## 其他
+  *  Fibonacci系数
+  *  位运算
+  *  数值的整数次方
