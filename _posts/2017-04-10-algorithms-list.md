@@ -15,7 +15,7 @@ permalink:
   *  查找旋转数组的最小值
   *  ---
   *  排序
-  *  数组中的逆序对
+  *  数组中的逆序对  剑指offer
   *  最小的`K`个数
   *  寻找中项和第`K`大元素 Leetcode 215
   *	 ---
@@ -97,7 +97,7 @@ permalink:
   *  单词变换问题 Leetcode 127
   *  回文划分问题 Leetcode 131
   *  周围区域问题 Leetcode 130
-  *  矩阵中的路径 牛客
+  *  矩阵中的路径 剑指offer
   *  八皇后问题
   *  数独Sudoku
   *  Dijkstra算法--单源最短路径问题，非负长度的有向图
