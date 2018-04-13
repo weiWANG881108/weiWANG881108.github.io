@@ -97,7 +97,7 @@ permalink:
   *  单词变换问题 Leetcode 127
   *  回文划分问题 Leetcode 131
   *  周围区域问题 Leetcode 130
-  *  矩阵中的路径 剑指offer
+  *  矩阵中的路径 剑指offer `2`
   *  八皇后问题
   *  数独Sudoku
   *  Dijkstra算法--单源最短路径问题，非负长度的有向图
