@@ -76,6 +76,7 @@ permalink:
 {: .notification .is-primary}
 
 ## 树
+  *  重建二叉树
   *  输入两颗二叉树A和B，判断B是否是A的字结构
   *  二叉树的镜像
   *  对称的二叉树
