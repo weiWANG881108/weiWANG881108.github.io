@@ -58,7 +58,7 @@ permalink:
   *  括号匹配
   *  最长括号匹配
   *  计算逆波兰表达式
-  *  直方图矩形面积
+  *  直方图矩形面积 LeetCode 84 `2`
   *  两个栈实现队列
 {: .notification .is-warning}
 
