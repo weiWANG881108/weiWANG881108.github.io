@@ -112,5 +112,6 @@ permalink:
 
 ## 其他
   *  Fibonacci系数 剑指offer `2`
+  *  矩形覆盖 剑指offer `2`
   *  位运算
   *  数值的整数次方
