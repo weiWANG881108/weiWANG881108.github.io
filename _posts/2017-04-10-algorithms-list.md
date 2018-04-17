@@ -73,7 +73,7 @@ permalink:
   *  字符串的全排列
   *  字符串循环左移
   *  KMP算法
-  *  字符串的最长回文字串
+  *  字符串的最长回文字串 Manacher算法
   *  字符串的交替连接
 {: .notification .is-primary}
 
