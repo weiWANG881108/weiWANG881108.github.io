@@ -78,6 +78,7 @@ permalink:
 {: .notification .is-primary}
 
 ## 树
+  *  非递归前序，中序，后序遍历
   *  重建二叉树 剑指offer `2`
   *  输入两颗二叉树A和B，判断B是否是A的字结构
   *  二叉树的镜像
@@ -91,7 +92,7 @@ permalink:
   *  把二叉树打印成多行
   *  按之字形顺序打印二叉树
   *  二叉搜索树的第K个节点
-  *  最近公共祖先
+  *  最近公共祖先,**后序遍历**
 {: .notification .is-danger}
 
 ## 图论
