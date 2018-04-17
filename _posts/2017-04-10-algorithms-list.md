@@ -61,6 +61,7 @@ permalink:
   *  计算逆波兰表达式
   *  直方图矩形面积 LeetCode 84 `2`
   *  两个栈实现队列 剑指offer `2`
+  *  栈的压入、弹出序列
 {: .notification .is-warning}
 
 ## 字符串
