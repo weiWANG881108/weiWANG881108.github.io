@@ -51,7 +51,7 @@ permalink:
   *  链表相加  (Merge Two Binary Tree 617 `2`)
   *  链表的部分翻转
   *  两个单链表的第一公共节点问题
-  *  链表中倒数第K个节点
+  *  链表中倒数第K个节点 剑指offer `2`
 {: .notification .is-info}
 
 ## 栈，队列
