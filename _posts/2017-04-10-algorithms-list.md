@@ -114,7 +114,7 @@ permalink:
 
 ## 位运算
   *  二进制中1的个数 剑指offer `2`
-  *  不用加减乘除做加法
+  *  不用加减乘除做加法  剑指offer `2`, LeetCode 371
   *  Hamming Distance LeetCode 461
   *  Number Complement  LeetCode 476
   *  Letter Case Permutation LeetCode 784
