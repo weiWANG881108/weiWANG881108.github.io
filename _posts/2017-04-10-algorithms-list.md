@@ -112,8 +112,11 @@ permalink:
   *  拓扑排序(Topological sort)
 {: .notification .is-info}
 
+## 位运算
+  *  位运算，二进制中1的个数 剑指offer `2`
+  *  Hamming Distance LeetCode 461
 ## 其他
   *  Fibonacci系数 剑指offer `2`
   *  矩形覆盖 剑指offer `2`
-  *  位运算，二进制中1的个数 剑指offer `2`
+
   *  数值的整数次方
