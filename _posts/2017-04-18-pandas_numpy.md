@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Algorithm Summary
-description: 面试题目总结
+title: Pandas+Numpy
+description: Operation
 categories:
     - ML
 comments: true
