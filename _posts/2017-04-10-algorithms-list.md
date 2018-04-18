@@ -22,7 +22,7 @@ permalink:
   *  调整数组顺序使奇数位于偶数前面  剑指offer `2`
   *  荷兰国旗问题 Leetcode 75 `2`
   *  ---
-  *  数组中出现次数超过一半的数字  剑指offer `2`
+  *  数组中出现次数超过一半的数字  剑指offer `2` (LeetCode 169)
   *  数字在排序数组中出现的次数
   *  数组中只出现一次的数字 剑指offer `2` (LeetCode 136), LeetCode 389
   *  数组中重复的数字
@@ -118,6 +118,7 @@ permalink:
   *  Hamming Distance LeetCode 461
   *  Number Complement  LeetCode 476
   *  Letter Case Permutation LeetCode 784
+  *  Missing Number LeetCode 268
 
 ## 其他
   *  Fibonacci系数 剑指offer `2`
