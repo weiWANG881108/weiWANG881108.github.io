@@ -24,7 +24,7 @@ permalink:
   *  ---
   *  数组中出现次数超过一半的数字  剑指offer `2`
   *  数字在排序数组中出现的次数
-  *  数组中只出现一次的数字
+  *  数组中只出现一次的数字 剑指offer `2` (LeetCode 136)
   *  数组中重复的数字
   *  ---
   *  最大连续子数组
@@ -116,7 +116,7 @@ permalink:
   *  位运算，二进制中1的个数 剑指offer `2`
   *  Hamming Distance LeetCode 461
   *  Number Complement  LeetCode 476
-  
+
 ## 其他
   *  Fibonacci系数 剑指offer `2`
   *  矩形覆盖 剑指offer `2`
