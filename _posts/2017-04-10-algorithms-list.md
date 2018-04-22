@@ -112,15 +112,14 @@ permalink:
   *  拓扑排序(Topological sort)
 {: .notification .is-info}
 
-## 位运算
+## 整数和位运算
   *  二进制中1的个数 剑指offer `2`
   *  不用加减乘除做加法  剑指offer `2`, LeetCode 371
   *  Hamming Distance LeetCode 461
   *  Number Complement  LeetCode 476
   *  Letter Case Permutation LeetCode 784
   *  Missing Number LeetCode 268
-
-## 数运算
+  *  ---
   *  Self Dividing Number LeetCode 728
   *  丑数
   *  整数中1出现的次数
