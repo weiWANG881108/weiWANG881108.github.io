@@ -120,8 +120,13 @@ permalink:
   *  Letter Case Permutation LeetCode 784
   *  Missing Number LeetCode 268
 
+## 数运算
+  *  Self Dividing Number LeetCode 728
+  *  丑数
+  *  整数中1出现的次数
+
 ## 其他
   *  Fibonacci系数 剑指offer `2`
   *  矩形覆盖 剑指offer `2`
-  *  Self Dividing Number LeetCode 728
+
   *  数值的整数次方
