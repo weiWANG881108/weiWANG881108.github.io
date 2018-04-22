@@ -22,6 +22,8 @@ permalink:
   *  调整数组顺序使奇数位于偶数前面  剑指offer `2`
   *  荷兰国旗问题 Leetcode 75 `2`
   *  ---
+  *  Shortest Distance to a Character LeetCode 821
+  *  ---
   *  数组中出现次数超过一半的数字  剑指offer `2` (LeetCode 169)
   *  数字在排序数组中出现的次数
   *  数组中只出现一次的数字 剑指offer `2` (LeetCode 136), LeetCode 389
@@ -121,8 +123,8 @@ permalink:
   *  Missing Number LeetCode 268
   *  ---
   *  Self Dividing Number LeetCode 728
-  *  丑数
-  *  整数中1出现的次数
+  *  丑数  剑指offer
+  *  整数中1出现的次数  剑指offer
 
 ## 其他
   *  Fibonacci系数 剑指offer `2`
