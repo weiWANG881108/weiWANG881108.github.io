@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 读书笔记一 术语(Terminology)
-description: Effective C++
+description: Effective C++,由侯捷译。
 categories:
     - Cpp
 comments: true
