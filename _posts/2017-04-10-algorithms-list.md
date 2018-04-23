@@ -74,6 +74,7 @@ permalink:
   *  表示数值的字符串
   *  字符串的全排列
   *  字符串循环左移
+  *  Reverse String LeetCode 344, LeetCode 557
   *  KMP算法
   *  字符串的最长回文字串 Manacher算法
   *  字符串的交替连接
