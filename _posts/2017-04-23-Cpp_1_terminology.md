@@ -26,9 +26,9 @@ Effective C++ 读书笔记一：术语(Terminology)
     *  模版(class)定义式，提供了它们的成员
 *  初始化(Initialization)： 给予对象初值的过程。
     *  用户自定义类型的对象，初始化由构造函数执行。default构造函数是一个可被调用而不带任何实参者。
-    ```C++
+```C++
       class B{
-        public:
-          explict B(int x=0, bool b=true);
+            public:
+            explict B(int x=0, bool b=true);
       };
-    ```
+```
