@@ -47,5 +47,7 @@ Effective C++ 读书笔记一：术语(Terminology)
             };
             Widget w1;
             Widget w1(w2);   //copy 构造函数
+            Widget w1 = w2;  //copy 构造函数
             w1 = w2          //copy assignment操作符
+            // copy构造和copy赋值的区别：如果一个新对象被定义，一定会有个构造函数被调用，不可能调用赋值操作。如果没有新对象被定义，就不会有构造函数被调用。那么当然是赋值操作被调用。
             ```
