@@ -53,3 +53,4 @@ Effective C++ 读书笔记一：术语(Terminology)
             // copy构造和copy赋值的区别：如果一个新对象被定义，一定会有个构造函数被调用，不可能调用赋值操作。如果没有新对象被定义，就不会有构造函数被调用。那么当然是赋值操作被调用。
         ```
 
+## STL是所谓的标准模版库(Standard Template Library)，是C++标准程序库的一部分，致力于容器、迭代器、算法及及相关机能。许多相关机能以函数对象(function objects)实现。那是行为像函数的对象。这样的对象来自于重载operator()的classes。
