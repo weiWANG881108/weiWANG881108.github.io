@@ -30,12 +30,22 @@ Effective C++ 读书笔记一：术语(Terminology)
         *  构造函数声明为explicit。可以阻止构造函数被用来执行隐士类型转换(implict type conversion)。
         *  `除非有一个好理由允许构造函数被用于隐式类型转换，否则把它声明为explicit`。
 
-```C++
-      class B{
-            public:
-            explict B(int x=0, bool b=true);
-      };
+        ```C++
+            class B{
+                  public:
+                  explict B(int x=0, bool b=true);
+            };
       
-```
-
-    * 
+        ```
+   *  copy 构造函数：以同类对象初始化自我对象
+   *  copy assignment操作符：从另一类同型对象中拷贝其值到自我对象。
+           ```C++
+            class Widget{
+                  Widget();
+                  Widget(const Widget & rhs); //copy 构造函数
+                  Widget& operator=(const Widget & rhs)  //copy assignment操作符
+            };
+            Widget w1;
+            Widget w1(w2);   //copy 构造函数
+            w1 = w2          //copy assignment操作符
+            ```
