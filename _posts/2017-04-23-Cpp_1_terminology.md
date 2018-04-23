@@ -12,5 +12,5 @@ Effective C++ 读书笔记一：术语(Terminology)
 ## 声明式(Declaration)
 *  告诉编译器某个东西的名称和类型(type)
 {: .notification .is-primary}
-
-
+*  每个函数的声明揭示其签名式(Signature)
+*  
