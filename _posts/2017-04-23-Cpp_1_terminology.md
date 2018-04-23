@@ -54,3 +54,14 @@ Effective C++ 读书笔记一：术语(Terminology)
         ```
 
 ## STL是所谓的标准模版库(Standard Template Library)，是C++标准程序库的一部分，致力于容器、迭代器、算法及及相关机能。许多相关机能以函数对象(function objects)实现。那是行为像函数的对象。这样的对象来自于重载operator()的classes。
+
+## 不明确行为(undefined behavior)
+
+        ```C++
+            //Example 1
+            int *p = 0; // p is a null pointer
+            std::cout << *p;
+            // Example 2
+            char name[] = "Darla";
+            char c = name[10]; //无效的数组索引
+        ```
