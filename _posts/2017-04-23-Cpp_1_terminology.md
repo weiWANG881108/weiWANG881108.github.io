@@ -39,6 +39,7 @@ Effective C++ 读书笔记一：术语(Terminology)
         ```
    *  copy 构造函数：以同类对象初始化自我对象。它定义一个对象如何`passed by value`.
    *  copy assignment操作符：从另一类同型对象中拷贝其值到自我对象。
+
            ```C++
             class Widget{
                   Widget();
@@ -51,3 +52,4 @@ Effective C++ 读书笔记一：术语(Terminology)
             w1 = w2          //copy assignment操作符
             // copy构造和copy赋值的区别：如果一个新对象被定义，一定会有个构造函数被调用，不可能调用赋值操作。如果没有新对象被定义，就不会有构造函数被调用。那么当然是赋值操作被调用。
             ```
+
