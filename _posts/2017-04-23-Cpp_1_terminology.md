@@ -59,11 +59,21 @@ Effective C++ 读书笔记一：术语(Terminology)
 
 ## 不明确行为(undefined behavior)
 
-    ```C++
+      ```C++
             //Example 1
             int *p = 0; // p is a null pointer
             std::cout << *p;
             // Example 2
             char name[] = "Darla";
             char c = name[10]; //无效的数组索引
-    ```
+      ```
+
+## 条款01: View C++ as a federation of languages
+
+C++ 包含4个次语言(sublanguage):
+  *  C。区块(blocks), 语句(statements)，预处理器(preprocess)，内置数据类型(biilt-in data types)，数组(arrays)，指针(pointer)都统统来自C。
+  *  Object-Oriented C++。classes(包括构造函数和析构函数)，封装(encapsulation)，继承(inheritance)，多态(polymorphism)，virtual函数(动态绑定)。
+  *  Template C++。即C++的泛型编程(generic programming)。
+  *  STL。特殊的template程序库。
+
+`C++高效编程守则视状况而变化，取决于你使用C++的哪一部分`。
