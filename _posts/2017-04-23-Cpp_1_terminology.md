@@ -28,7 +28,8 @@ Effective C++ 读书笔记一：术语(Terminology)
     *  用户自定义类型的对象，初始化由构造函数执行。
         *  default构造函数是一个可被调用而不带任何实参者。
         *  构造函数声明为explicit。可以阻止构造函数被用来执行隐士类型转换(implict type conversion)。
-        *  `除非有一个好理由允许构造函数被用于隐式类型转换，否则把它声明为explicit`
+        *  `除非有一个好理由允许构造函数被用于隐式类型转换，否则把它声明为explicit`。
+
 ```C++
       class B{
             public:
@@ -36,3 +37,5 @@ Effective C++ 读书笔记一：术语(Terminology)
       };
       
 ```
+
+    * 
