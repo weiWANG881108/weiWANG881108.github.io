@@ -128,6 +128,10 @@ permalink:
   *  丑数  剑指offer
   *  整数中1出现的次数  剑指offer
   *  Prime Number of Set Bits in Binary Representation LeetCode 762.
+  *  Add Digits LeetCode 258
+
+## 计算几何
+  *  s
 
 ## 其他
   *  Fibonacci系数 剑指offer `2`
