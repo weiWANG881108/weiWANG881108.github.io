@@ -127,6 +127,7 @@ permalink:
   *  Self Dividing Number LeetCode 728
   *  丑数  剑指offer
   *  整数中1出现的次数  剑指offer
+  *  Prime Number of Set Bits in Binary Representation LeetCode 762.
 
 ## 其他
   *  Fibonacci系数 剑指offer `2`
