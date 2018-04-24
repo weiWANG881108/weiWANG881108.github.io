@@ -122,6 +122,7 @@ permalink:
   *  Number Complement  LeetCode 476
   *  Letter Case Permutation LeetCode 784
   *  Missing Number LeetCode 268
+  *  Binary Number with Alternating Bits LeetCode 693
   *  ---
   *  Self Dividing Number LeetCode 728
   *  丑数  剑指offer
