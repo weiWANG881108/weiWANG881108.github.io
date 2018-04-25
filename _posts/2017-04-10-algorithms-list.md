@@ -19,7 +19,7 @@ permalink:
   *  最小的K个数  剑指offer `2`
   *  寻找中项和第K大元素 Leetcode 215 `2`
   *	 ---
-  *  调整数组顺序使奇数位于偶数前面  剑指offer `2`
+  *  调整数组顺序使奇数位于偶数前面  剑指offer `2`, Move Zeros LeetCode 283, 
   *  荷兰国旗问题 Leetcode 75 `2`
   *  ---
   *  Shortest Distance to a Character LeetCode 821
