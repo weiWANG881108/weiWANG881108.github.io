@@ -77,6 +77,7 @@ permalink:
   *  Reverse String LeetCode 344, LeetCode 557
   *  KMP算法
   *  字符串的最长回文字串 Manacher算法
+  *  count Binary Substrings LeetCode 696
   *  字符串的交替连接
 {: .notification .is-primary}
 
