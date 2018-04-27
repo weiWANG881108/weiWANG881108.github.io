@@ -10,6 +10,4 @@ permalink:
 
 这个文档是对
 
-```html
-<a href="#" class="button is-success">Success Button</a>
-```
+This is an example of a [link](http://apple.com "Apple").
