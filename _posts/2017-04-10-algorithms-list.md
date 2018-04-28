@@ -23,8 +23,6 @@ permalink:
   *  调整数组顺序使奇数位于偶数前面  剑指offer `2`, Move Zeros LeetCode 283, 
   *  荷兰国旗问题 Leetcode 75 `2`
   *  ---
-  *  Shortest Distance to a Character LeetCode 821
-  *  ---
   *  数组中出现次数超过一半的数字  剑指offer `2` (LeetCode 169)
   *  数组中只出现一次的数字 剑指offer `2` (LeetCode 136), LeetCode 389
   *  数组中重复的数字
@@ -37,7 +35,7 @@ permalink:
   *  最长公共子序列
   *  最长递增子序列
   *  ---
-  *  构建乘积数组 剑指offer `2` (LeetCode 724)
+  *  构建乘积数组 剑指offer `2` (LeetCode 724), Shortest_Distance_to_a_Character_LeetCode 821
   *  矩阵链相乘
   *  走棋盘
   *  完美洗牌算法
