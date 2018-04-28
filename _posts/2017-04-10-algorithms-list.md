@@ -12,6 +12,7 @@ permalink:
 ## 数组
   *  二维数组中查找 剑指offer `2`
   *  二分查找
+  *  数字在排序数组中出现的次数
   *  查找旋转数组的最小值 剑指offer `2`
   *  ---
   *  排序
@@ -25,7 +26,6 @@ permalink:
   *  Shortest Distance to a Character LeetCode 821
   *  ---
   *  数组中出现次数超过一半的数字  剑指offer `2` (LeetCode 169)
-  *  数字在排序数组中出现的次数
   *  数组中只出现一次的数字 剑指offer `2` (LeetCode 136), LeetCode 389
   *  数组中重复的数字
   *  ---
