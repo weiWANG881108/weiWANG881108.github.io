@@ -73,7 +73,7 @@ permalink:
   *  字符串的全排列
   *  字符串循环左移
   *  Reverse String LeetCode 344, LeetCode 557
-  *  KMP算法
+  *  KMP算法 Repeated_Substring_Pattern LeetCode 459
   *  字符串的最长回文字串 Manacher算法
   *  count_Binary_Substrings LeetCode 696  Max_Consective_Ones LeetCode 485
   *  字符串的交替连接
@@ -93,6 +93,7 @@ permalink:
   *  二叉树的深度 **前序遍历** 剑指offer `2`  LeetCode 257
   *  平衡二叉树 **中序遍历** 剑指offer `2`
   *  把二叉树打印成多行 剑指offer `2`，LeetCode 637
+  *  Binary_Tree_Level_Order_Traversal LeetCode 107
   *  按之字形顺序打印二叉树
   *  二叉搜索树的第K个节点,**中序遍历**
   *  最近公共祖先,**后序遍历**
