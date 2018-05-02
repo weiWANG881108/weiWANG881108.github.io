@@ -81,6 +81,7 @@ permalink:
 
 ## 树
   *  非递归前序，中序，后序遍历
+  *  Implement Trie(Prefix Tree) LeetCode 208
   *  重建二叉树 剑指offer `2`
   *  输入两颗二叉树A和B，判断B是否是A的子结构 **前序遍历**  LeetCode 100
   *  二叉树的镜像 **前序遍历**  剑指offer `2`, LeetCode 226 `2`
@@ -103,7 +104,7 @@ permalink:
 ## 图论
   *  广度优先算法
   *  深度优先算法
-  *  单词变换问题 Leetcode 127
+  *  单词变换问题 Leetcode 127, Long_word_in_Dictionary LeetCode 720
   *  回文划分问题 Leetcode 131
   *  周围区域问题 Leetcode 130
   *  矩阵中的路径 剑指offer `2`
