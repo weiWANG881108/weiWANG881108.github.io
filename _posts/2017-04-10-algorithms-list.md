@@ -93,6 +93,7 @@ permalink:
   *  二叉树中和为某一值的路径 **前序遍历** 剑指offer `2`, Leetcode 653 `2`
   *  Binary_Tree_Tilt LeetCode 563
   *  二叉树的深度 **前序遍历** 剑指offer `2`  LeetCode 257
+  *  Diameter_of_Binary_Tree LeetCode 543
   *  平衡二叉树 **中序遍历** 剑指offer `2`
   *  把二叉树打印成多行 剑指offer `2`，LeetCode 637
   *  Binary_Tree_Level_Order_Traversal LeetCode 107
