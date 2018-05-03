@@ -34,6 +34,7 @@ permalink:
   *  ---
   *  最长公共子序列
   *  最长递增子序列
+  *  Longet Harmonious Subsequence LeetCode 594
   *  ---
   *  构建乘积数组 剑指offer `2` (LeetCode 724), Shortest_Distance_to_a_Character_LeetCode 821
   *  矩阵链相乘
