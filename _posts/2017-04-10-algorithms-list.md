@@ -12,7 +12,7 @@ permalink:
 ## 数组
   *  二维数组中查找 剑指offer `2`
   *  二分查找
-  *  数字在排序数组中出现的次数
+  *  数字在排序数组中出现的次数 Find_Mode_in_Binary_Search_Tree LeetCode 501
   *  查找旋转数组的最小值 剑指offer `2`
   *  ---
   *  排序 Merge_Sorted_Array LeetCode 88
