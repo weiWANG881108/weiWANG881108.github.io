@@ -12,7 +12,7 @@ permalink:
 ## 数组
   *  二维数组中查找 剑指offer `2`
   *  二分查找
-  *  数字在排序数组中出现的次数 Find_Mode_in_Binary_Search_Tree LeetCode 501
+  *  数字在排序数组中出现的次数 
   *  查找旋转数组的最小值 剑指offer `2`
   *  ---
   *  排序 Merge_Sorted_Array LeetCode 88
@@ -99,6 +99,7 @@ permalink:
   *  二叉搜索树的第K个节点,**中序遍历**
   *  最近公共祖先,**后序遍历**
   *  Convert_BST_to_Greater_Tree LeetCode 538
+  *  Find_Mode_in_Binary_Search_Tree LeetCode 501
 {: .notification .is-danger}
 
 ## 图论
