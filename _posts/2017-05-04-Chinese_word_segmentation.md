@@ -18,4 +18,4 @@ permalink:
 * 双向最大匹配算法(Bi-directional MM)
 
 ## 问题：给定一个句子
-S = c<sub>1</sub>c<sub>2</sub>...c<sub>n</sub>
+S = c<sub>1</sub>c<sub>2</sub>...c<sub>n</sub>. 假设词：w<sub>i</sub>=c<sub>1</sub>c<sub>2</sub>...c<sub>m</sub>。m为词典中最长词的字数。
