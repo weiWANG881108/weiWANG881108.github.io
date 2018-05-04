@@ -137,6 +137,7 @@ permalink:
   *  Prime Number of Set Bits in Binary Representation LeetCode 762.
   *  Add Digits LeetCode 258
   *  Plus_One LeetCode 66
+  *  Add_Strings LeetCode 415
 
 ## 计算几何
   *  Range Addition II LeetCode 598
