@@ -17,4 +17,4 @@ permalink:
 * 双向最大匹配算法(Bi-directional MM)
 
 ## 问题：给定一个句子
-\\(\mathbf{y} = A \mathbf{x}\\)
+you can use an inline formula $$\forall x \in R$$ like this one
