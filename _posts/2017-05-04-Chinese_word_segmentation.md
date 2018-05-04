@@ -17,4 +17,4 @@ permalink:
 * 双向最大匹配算法(Bi-directional MM)
 
 ## 问题：给定一个句子
-
+This is a \emph{LaTeX} file.
