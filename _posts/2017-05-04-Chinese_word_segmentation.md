@@ -24,7 +24,7 @@ permalink:
 * (2) 从当前p<sub>i</sub>起取m个汉字作为词w<sub>i</sub>。做如下判断：
 	*  a) 如果w<sub>i</sub>确实是字典中的词。则在w<sub>i</sub>后添加一个切分标志，转c)。
 	*  b) 如果w<sub>i</sub>不是词典中的词且w<sub>i</sub>的长度大于1，将w<sub>i</sub>的右端去掉一个字，转(2)中的a)步骤。如果w<sub>i</sub>的长度等于1，则在w<sub>i</sub>后添加一个切分标志，将w<sub>i</sub>作为单字词添加到词典中，执行c)
-	*  c) 根据w<sub>i</sub>的长度修改指针p<sub>i</sub>的位置,如果p<sub>i</sub>指向字符串的末端，转(3)，否则，i=i+|w<sub>i</sub>|，返回(1)
+	*  c) 根据w<sub>i</sub>的长度修改指针p<sub>i</sub>的位置,如果p<sub>i</sub>指向字符串的末端，转(3)，否则，i=i+\|w<sub>i</sub>\|，返回(1)
 * (3) 输出切分结果。
 
 * 优点：
