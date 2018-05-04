@@ -5,6 +5,7 @@ description: 中文分词算法--基于词表的分词方法
 categories:
     - NLP
 comments: true
+math: true
 permalink: 
 ---
 
