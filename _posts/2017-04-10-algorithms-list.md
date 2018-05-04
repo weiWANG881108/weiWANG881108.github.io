@@ -71,7 +71,7 @@ permalink:
   *  把字符串转换成整数
   *  正则表达式匹配
   *  表示数值的字符串
-  *  字符串的全排列
+  *  字符串的全排列 Longest Palindrome LeetCode 409, Valid_Anagram LeetCode 242
   *  字符串循环左移
   *  Reverse String LeetCode 344, LeetCode 557
   *  KMP算法 Repeated_Substring_Pattern LeetCode 459
@@ -91,9 +91,9 @@ permalink:
   *  二叉树的下一个节点（中序遍历）
   *  二叉搜索树与双向链表 **中序遍历**
   *  二叉树中和为某一值的路径 **前序遍历** 剑指offer `2`, Leetcode 653 `2`
-  *  Binary_Tree_Tilt LeetCode 563
+  *  Binary_Tree_Tilt LeetCode 563  **后序遍历**
   *  二叉树的深度 **前序遍历** 剑指offer `2`  LeetCode 257
-  *  Diameter_of_Binary_Tree LeetCode 543
+  *  Diameter_of_Binary_Tree LeetCode 543 **后序遍历**
   *  平衡二叉树 **中序遍历** 剑指offer `2`
   *  把二叉树打印成多行 剑指offer `2`，LeetCode 637
   *  Binary_Tree_Level_Order_Traversal LeetCode 107
@@ -136,9 +136,10 @@ permalink:
   *  整数中1出现的次数  剑指offer
   *  Prime Number of Set Bits in Binary Representation LeetCode 762.
   *  Add Digits LeetCode 258
+  *  Plus_One LeetCode 66
 
 ## 计算几何
-  *  s
+  *  Range Addition II LeetCode 598
 
 ## 其他
   *  Fibonacci系数 剑指offer `2`
