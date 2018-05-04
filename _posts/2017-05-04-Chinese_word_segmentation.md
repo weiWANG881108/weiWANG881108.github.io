@@ -18,4 +18,4 @@ permalink:
 * 双向最大匹配算法(Bi-directional MM)
 
 ## 问题：给定一个句子
-you can use an inline formula $\forall x \in R$ like this one
+S = c<sub>1</sub>c<sub>2</sub>...c<sub>n</sub>
