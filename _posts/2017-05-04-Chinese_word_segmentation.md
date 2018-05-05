@@ -27,6 +27,8 @@ permalink:
 	*  c) 根据w<sub>i</sub>的长度修改指针p<sub>i</sub>的位置,如果p<sub>i</sub>指向字符串的末端，转(3)，否则，i=i+\|w<sub>i</sub>\|，返回(1)
 * (3) 输出切分结果。
 
+* 详细代码请见	(C++) [FMM_algorithm](https://github.com/weiWANG881108/NLP/tree/master/tokenize "FMM_algorithm")
+
 * 优点：
 	* 程序简单易行，开发周期短
 	* 仅需要很少的语言资源，不需要任何词法、句法、语义资源
