@@ -24,10 +24,10 @@ permalink:
   *  荷兰国旗问题 Leetcode 75 `2`
   *  ---
   *  数组中出现次数超过一半的数字  剑指offer `2` (LeetCode 169)
-  *  数组中只出现一次的数字 剑指offer `2` (LeetCode 136), LeetCode 389
+  *  数组中只出现一次的数字 剑指offer `2` (LeetCode 136), LeetCode 389, LeetCode 217
   *  数组中重复的数字
   *  ---
-  *  最大连续子数组
+  *  最大连续子数组 LeetCode 53
   *  和为S的连续正数序列
   *  零子数组
   *  数组的和 combinatics sum, leetcode 40 `2`,
@@ -45,6 +45,7 @@ permalink:
 {: .notification .is-success}
 
 ## 链表
+  *  Delete_Node_in_a_Linked_List LeetCode 237
   *  从尾到头打印链表
   *  复杂链表的复制
   *  删除链表中的重复节点  Leetcode 26 `2`, 剑指offer `2` (Leetcode 27 `2`, Leecode 203 `2`, )
@@ -95,6 +96,7 @@ permalink:
   *  二叉树的深度 **前序遍历** 剑指offer `2`  LeetCode 257
   *  Diameter_of_Binary_Tree LeetCode 543 **后序遍历**
   *  Binary_Tree_Tilt LeetCode 563  **后序遍历**
+  *  Minimum_Distance_Between_BST_Nodes  **中序遍历**
   *  平衡二叉树 **后序遍历** 剑指offer `2`
   *  把二叉树打印成多行 剑指offer `2`，LeetCode 637
   *  Binary_Tree_Level_Order_Traversal LeetCode 107
@@ -130,6 +132,7 @@ permalink:
   *  Letter Case Permutation LeetCode 784
   *  Missing Number LeetCode 268
   *  Find All Numbers Disappeared in an Array 448
+  *  Set_Mismatch 645
   *  Binary Number with Alternating Bits LeetCode 693
   *  ---
   *  Self Dividing Number LeetCode 728
