@@ -84,17 +84,18 @@ permalink:
   *  非递归前序，中序，后序遍历
   *  Implement Trie(Prefix Tree) LeetCode 208
   *  重建二叉树 剑指offer `2`
+  *  Convert_Sorted_Array_to_Binary_Search_Tree LeetCode 108
+  *  二叉搜索树与双向链表 **中序遍历**  
   *  输入两颗二叉树A和B，判断B是否是A的子结构 **前序遍历**  LeetCode 100
   *  二叉树的镜像 **前序遍历**  剑指offer `2`, LeetCode 226 `2`
   *  对称的二叉树 **前序遍历**
   *  二叉搜索树的后序遍历序列
   *  二叉树的下一个节点（中序遍历）
-  *  二叉搜索树与双向链表 **中序遍历**
   *  二叉树中和为某一值的路径 **前序遍历** 剑指offer `2`, Leetcode 653 `2`
-  *  Binary_Tree_Tilt LeetCode 563  **后序遍历**
   *  二叉树的深度 **前序遍历** 剑指offer `2`  LeetCode 257
   *  Diameter_of_Binary_Tree LeetCode 543 **后序遍历**
-  *  平衡二叉树 **中序遍历** 剑指offer `2`
+  *  Binary_Tree_Tilt LeetCode 563  **后序遍历**
+  *  平衡二叉树 **后序遍历** 剑指offer `2`
   *  把二叉树打印成多行 剑指offer `2`，LeetCode 637
   *  Binary_Tree_Level_Order_Traversal LeetCode 107
   *  按之字形顺序打印二叉树
