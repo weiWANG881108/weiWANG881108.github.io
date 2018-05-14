@@ -24,13 +24,14 @@ permalink:
   *  荷兰国旗问题 Leetcode 75 `2`
   *  ---
   *  数组中出现次数超过一半的数字  剑指offer `2` (LeetCode 169)
-  *  数组中只出现一次的数字 剑指offer `2` (LeetCode 136), LeetCode 389, LeetCode 217
+  *  数组中只出现一次的数字 剑指offer `2` (LeetCode 136), LeetCode 389, LeetCode 217 LeetCode 540, LeetCode 219
   *  数组中重复的数字
   *  ---
   *  最大连续子数组 LeetCode 53
   *  和为S的连续正数序列
   *  零子数组
   *  数组的和 combinatics sum, leetcode 40 `2`,
+  *  Maximum_Product_of_Three_Numbers LeetCode 628
   *  ---
   *  最长公共子序列
   *  最长递增子序列
@@ -67,10 +68,11 @@ permalink:
 {: .notification .is-warning}
 
 ## 字符串
-  *  替换空格 剑指offer `2`
+  *  替换空格 剑指offer `2`  Number_of_Segments_in_a_String LeetCode 434
   *  第一个只出现一次的字符位置
   *  把字符串转换成整数
   *  正则表达式匹配
+  *  Word_Pattern 290
   *  表示数值的字符串
   *  字符串的全排列 Longest Palindrome LeetCode 409, Valid_Anagram LeetCode 242
   *  字符串循环左移
@@ -83,11 +85,11 @@ permalink:
 
 ## 树
   *  非递归前序，中序，后序遍历
-  *  Implement Trie(Prefix Tree) LeetCode 208
+  *  Implement Trie(Prefix Tree) LeetCode 208 Short_Encoding_of_Words LeetCode 820
   *  重建二叉树 剑指offer `2`
   *  Convert_Sorted_Array_to_Binary_Search_Tree LeetCode 108
   *  二叉搜索树与双向链表 **中序遍历**  
-  *  输入两颗二叉树A和B，判断B是否是A的子结构 **前序遍历**  LeetCode 100
+  *  输入两颗二叉树A和B，判断B是否是A的子结构 **前序遍历**  LeetCode 100, LeetCode 572
   *  二叉树的镜像 **前序遍历**  剑指offer `2`, LeetCode 226 `2`
   *  对称的二叉树 **前序遍历**
   *  二叉搜索树的后序遍历序列
@@ -97,7 +99,7 @@ permalink:
   *  Diameter_of_Binary_Tree LeetCode 543 **后序遍历**
   *  Binary_Tree_Tilt LeetCode 563  **后序遍历**
   *  Minimum_Distance_Between_BST_Nodes  **中序遍历**
-  *  平衡二叉树 **后序遍历** 剑指offer `2`, LeetCode 110
+  *  平衡二叉树 **后序遍历** 剑指offer `2`, LeetCode 110  Binary_Tree_Pruning LeetCode 814
   *  把二叉树打印成多行 剑指offer `2`，LeetCode 637
   *  Binary_Tree_Level_Order_Traversal LeetCode 107
   *  按之字形顺序打印二叉树
@@ -125,7 +127,7 @@ permalink:
 {: .notification .is-info}
 
 ## 整数和位运算
-  *  二进制中1的个数 剑指offer `2`
+  *  二进制中1的个数 剑指offer `2`  LeetCode 191
   *  不用加减乘除做加法  剑指offer `2`, LeetCode 371
   *  Hamming Distance LeetCode 461
   *  Number Complement  LeetCode 476
