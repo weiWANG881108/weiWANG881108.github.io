@@ -27,7 +27,7 @@ permalink:
   *  数组中只出现一次的数字 剑指offer `2` (LeetCode 136), LeetCode 389, LeetCode 217 LeetCode 540, LeetCode 219
   *  数组中重复的数字
   *  ---
-  *  最大连续子数组 LeetCode 53
+  *  最大连续子数组 LeetCode 53  Maximum_Average_Subarray LeetCode 643
   *  和为S的连续正数序列
   *  零子数组
   *  数组的和 combinatics sum, leetcode 40 `2`,
