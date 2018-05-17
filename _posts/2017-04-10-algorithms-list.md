@@ -55,6 +55,7 @@ permalink:
   *  链表的部分翻转 剑指offer `2`
   *  两个单链表的第一公共节点问题
   *  链表中倒数第K个节点 剑指offer `2`
+  *  Palindrome Linked List LeetCode 234
 {: .notification .is-info}
 
 ## 栈，队列
@@ -69,14 +70,14 @@ permalink:
 
 ## 字符串
   *  替换空格 剑指offer `2`  Number_of_Segments_in_a_String LeetCode 434
-  *  第一个只出现一次的字符位置
+  *  第一个只出现一次的字符位置 剑指offer, LeetCode 387
   *  把字符串转换成整数
   *  正则表达式匹配
   *  Word_Pattern 290
   *  表示数值的字符串
   *  字符串的全排列 Longest Palindrome LeetCode 409, Valid_Anagram LeetCode 242
   *  字符串循环左移
-  *  Reverse String LeetCode 344, LeetCode 557
+  *  Reverse String LeetCode 344, LeetCode 557, LeetCode 541
   *  KMP算法 Repeated_Substring_Pattern LeetCode 459
   *  字符串的最长回文字串 Manacher算法
   *  count_Binary_Substrings LeetCode 696  Max_Consective_Ones LeetCode 485
@@ -94,11 +95,11 @@ permalink:
   *  对称的二叉树 **前序遍历**
   *  二叉搜索树的后序遍历序列
   *  二叉树的下一个节点（中序遍历）
-  *  二叉树中和为某一值的路径 **前序遍历** 剑指offer `2`, Leetcode 653 `2`
+  *  二叉树中和为某一值的路径 **前序遍历** 剑指offer `2`, Leetcode 653 `2` LeetCode 112
   *  二叉树的深度 **前序遍历** 剑指offer `2`  LeetCode 257
   *  Diameter_of_Binary_Tree LeetCode 543 **后序遍历**
   *  Binary_Tree_Tilt LeetCode 563  **后序遍历**
-  *  Minimum_Distance_Between_BST_Nodes  **中序遍历**
+  *  Minimum_Distance_Between_BST_Nodes  LeetCode 783 **中序遍历** LeetCode 530
   *  平衡二叉树 **后序遍历** 剑指offer `2`, LeetCode 110  Binary_Tree_Pruning LeetCode 814
   *  把二叉树打印成多行 剑指offer `2`，LeetCode 637
   *  Binary_Tree_Level_Order_Traversal LeetCode 107
@@ -126,7 +127,7 @@ permalink:
   *  拓扑排序(Topological sort)
 {: .notification .is-info}
 
-## 整数和位运算
+## 位运算和整数
   *  二进制中1的个数 剑指offer `2`  LeetCode 191
   *  不用加减乘除做加法  剑指offer `2`, LeetCode 371
   *  Hamming Distance LeetCode 461
@@ -141,9 +142,11 @@ permalink:
   *  丑数  剑指offer
   *  整数中1出现的次数  剑指offer
   *  Prime Number of Set Bits in Binary Representation LeetCode 762.
+  *  质数因子 华为机试
   *  Add Digits LeetCode 258
   *  Plus_One LeetCode 66
   *  Add_Strings LeetCode 415
+  *  取近似值 华为机试
 
 ## 计算几何
   *  Range Addition II LeetCode 598
@@ -153,3 +156,4 @@ permalink:
   *  矩形覆盖 剑指offer `2`
   *  数值的整数次方
   *  Excel_Sheet_Column_Number LeetCode 171
+  *  进制转换 华为机试
