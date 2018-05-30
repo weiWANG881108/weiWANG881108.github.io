@@ -28,10 +28,10 @@ permalink:
   *  数组中重复的数字 剑指offer `3`
   *  ---
   *  最大连续子数组 LeetCode 53 `3`  Maximum_Average_Subarray LeetCode 643
-  *  和为S的连续正数序列
+  *  和为S的连续正数序列 剑指offer `3`
   *  零子数组
-  *  数组的和 combinatics sum, leetcode 40 `2`,
-  *  Maximum_Product_of_Three_Numbers LeetCode 628
+  *  数组的和 和为S的两个数字 剑指offer `3` combinatics sum, leetcode 40 `2`,
+  *  Maximum_Product_of_Three_Numbers LeetCode 628 `2`
   *  ---
   *  最长公共子序列
   *  最长递增子序列
