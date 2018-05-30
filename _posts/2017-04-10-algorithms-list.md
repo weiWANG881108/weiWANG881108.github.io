@@ -23,7 +23,7 @@ permalink:
   *  调整数组顺序使奇数位于偶数前面  剑指offer `3`, Move Zeros LeetCode 283, 
   *  荷兰国旗问题 Leetcode 75 `3`
   *  ---
-  *  数组中出现次数超过一半的数字  剑指offer `2` (LeetCode 169)
+  *  数组中出现次数超过一半的数字  剑指offer `3` (LeetCode 169)
   *  数组中只出现一次的数字 剑指offer `2` (LeetCode 136), LeetCode 389, LeetCode 217 LeetCode 540, LeetCode 219
   *  数组中重复的数字
   *  ---
