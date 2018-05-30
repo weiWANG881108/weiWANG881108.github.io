@@ -42,13 +42,13 @@ permalink:
   *  走棋盘
   *  完美洗牌算法
   *  顺时针打印矩阵
-  *  把数组排成最小的数
+  *  把数组排成最小的数 剑指offer `2.5`
 {: .notification .is-success}
 
 ## 链表
   *  Delete_Node_in_a_Linked_List LeetCode 237
-  *  从尾到头打印链表
-  *  复杂链表的复制
+  *  从尾到头打印链表 剑指offer `3`
+  *  复杂链表的复制 剑指offer `3`
   *  删除链表中的重复节点  Leetcode 26 `2`, 剑指offer `2` (Leetcode 27 `2`, Leecode 203 `2`, )
   *  链表中环的入口节点 Linked_List_Cycle LeetCode 141
   *  链表相加  剑指offer `2` (Merge Two Binary Tree 617 `2`)
@@ -111,11 +111,11 @@ permalink:
 {: .notification .is-danger}
 
 ## 图论
-  *  广度优先算法
-  *  深度优先算法
-  *  单词变换问题 Leetcode 127, Long_word_in_Dictionary LeetCode 720
-  *  回文划分问题 Leetcode 131
-  *  周围区域问题 Leetcode 130
+  *  广度优先算法  `2.5`
+  *  深度优先算法  `2.5`
+  *  单词变换问题 Leetcode 127 `2`,   LeetCode 720
+  *  回文划分问题 Leetcode 131 `3`
+  *  周围区域问题 Leetcode 130 `2`
   *  矩阵中的路径 剑指offer `2`
   *  八皇后问题
   *  数独Sudoku
@@ -149,11 +149,11 @@ permalink:
   *  取近似值 华为机试
 
 ## 计算几何
-  *  Range Addition II LeetCode 598
+  *  Range Addition II LeetCode 598 `3` 
 
 ## 其他
-  *  Fibonacci系数 剑指offer `2`
-  *  矩形覆盖 剑指offer `2`
+  *  Fibonacci系数 剑指offer `2.5`
+  *  矩形覆盖 剑指offer `2.5`
   *  数值的整数次方
-  *  Excel_Sheet_Column_Number LeetCode 171
+  *  Excel_Sheet_Column_Number LeetCode 171 `3`
   *  进制转换 华为机试
