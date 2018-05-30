@@ -12,10 +12,10 @@ permalink:
 ## 数组
   *  二维数组中查找 剑指offer `3`
   *  二分查找  `3`
-  *  数字在排序数组中出现的次数 
-  *  查找旋转数组的最小值 剑指offer `2`
+  *  数字在排序数组中出现的次数  剑指offer `3`
+  *  查找旋转数组的最小值 剑指offer `3`
   *  ---
-  *  排序 Merge_Sorted_Array LeetCode 88
+  *  排序 Merge_Sorted_Array LeetCode 88 `3`
   *  数组中的逆序对  剑指offer `2`
   *  最小的K个数  剑指offer `2`
   *  寻找中项和第K大元素 Leetcode 215 `2`
