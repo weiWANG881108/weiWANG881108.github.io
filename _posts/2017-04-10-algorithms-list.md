@@ -15,12 +15,12 @@ permalink:
   *  数字在排序数组中出现的次数  剑指offer `3`
   *  查找旋转数组的最小值 剑指offer `3`
   *  ---
-  *  排序 Merge_Sorted_Array LeetCode 88 `3`
-  *  数组中的逆序对  剑指offer `2`
-  *  最小的K个数  剑指offer `2`
+  *  排序 Merge_Sorted_Array LeetCode 88 `2`
+  *  数组中的逆序对  剑指offer `3`
+  *  最小的K个数  剑指offer `3`
   *  寻找中项和第K大元素 Leetcode 215 `2`
   *	 ---
-  *  调整数组顺序使奇数位于偶数前面  剑指offer `2`, Move Zeros LeetCode 283, 
+  *  调整数组顺序使奇数位于偶数前面  剑指offer `3`, Move Zeros LeetCode 283, 
   *  荷兰国旗问题 Leetcode 75 `2`
   *  ---
   *  数组中出现次数超过一半的数字  剑指offer `2` (LeetCode 169)
