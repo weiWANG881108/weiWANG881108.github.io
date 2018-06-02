@@ -10,7 +10,6 @@ permalink:
 ---
 给自己已经掌握的算法列个清单
 
-http://mathurl.com/5euwuy
 
 ## 数组
   *  二维数组中查找 剑指offer `3`
