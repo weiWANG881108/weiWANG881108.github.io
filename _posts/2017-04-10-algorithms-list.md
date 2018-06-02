@@ -160,3 +160,11 @@ http://mathurl.com/5euwuy
   *  数值的整数次方
   *  Excel_Sheet_Column_Number LeetCode 171 `3`
   *  进制转换 华为机试
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+  }
+});
+</script>
