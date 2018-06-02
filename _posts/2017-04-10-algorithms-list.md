@@ -129,6 +129,14 @@ permalink:
   *  拓扑排序(Topological sort)
 {: .notification .is-info}
 
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+  }
+});
+</script>
+
 ## 位运算和整数
   *  二进制中1的个数 剑指offer `2`  LeetCode 191
   *  不用加减乘除做加法  剑指offer `2`, LeetCode 371
@@ -159,11 +167,3 @@ permalink:
   *  数值的整数次方
   *  Excel_Sheet_Column_Number LeetCode 171 `3`
   *  进制转换 华为机试
-
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-  }
-});
-</script>
