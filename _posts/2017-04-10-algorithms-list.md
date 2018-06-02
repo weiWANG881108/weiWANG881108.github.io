@@ -129,13 +129,6 @@ permalink:
   *  拓扑排序(Topological sort)
 {: .notification .is-info}
 
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-  }
-});
-</script>
 
 ## 位运算和整数
   *  二进制中1的个数 剑指offer `2`  LeetCode 191
