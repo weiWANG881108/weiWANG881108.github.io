@@ -5,9 +5,12 @@ description: 面试题目总结
 categories:
     - LeetCode
 comments: true
+mathjax: true
 permalink: 
 ---
 给自己已经掌握的算法列个清单
+
+http://mathurl.com/5euwuy
 
 ## 数组
   *  二维数组中查找 剑指offer `3`
@@ -20,7 +23,7 @@ permalink:
   *  最小的K个数  剑指offer `3`
   *  寻找中项和第K大元素 Leetcode 215 `2`
   *	 ---
-  *  调整数组顺序使奇数位于偶数前面  剑指offer `3`, Move Zeros LeetCode 283, 
+  *  调整数组顺序使奇数位于偶数前面  剑指offer `3`, Move Zeros LeetCode 283, Non-decreasing Array LeetCode 665
   *  荷兰国旗问题 Leetcode 75 `3`
   *  ---
   *  数组中出现次数超过一半的数字  剑指offer `3` (LeetCode 169)
@@ -49,7 +52,7 @@ permalink:
   *  Delete_Node_in_a_Linked_List LeetCode 237
   *  从尾到头打印链表 剑指offer `3`
   *  复杂链表的复制 剑指offer `3`
-  *  删除链表中的重复节点  Leetcode 26 `2`, 剑指offer `2` (Leetcode 27 `2`, Leecode 203 `2`, )
+  *  删除链表中的重复节点  Leetcode 26 `2`, 剑指offer `3` (Leetcode 27 `2`, Leecode 203 `2`, )
   *  链表中环的入口节点 Linked_List_Cycle LeetCode 141
   *  链表相加  剑指offer `2` (Merge Two Binary Tree 617 `2`)
   *  链表的部分翻转 剑指offer `2`
