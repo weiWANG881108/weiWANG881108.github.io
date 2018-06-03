@@ -11,6 +11,9 @@ permalink:
 给自己已经掌握的算法列个清单
 
 
+In N-dimensional simplex noise, the squared kernel summation radius
+
+
 ## 数组
   *  二维数组中查找 剑指offer `3`
   *  二分查找  `3`
@@ -162,5 +165,4 @@ permalink:
   *  进制转换 华为机试
 
 
-In N-dimensional simplex noise, the squared kernel summation radius 
 
