@@ -11,7 +11,7 @@ permalink:
 给自己已经掌握的算法列个清单
 
 
-In N-dimensional simplex noise, the squared kernel summation radius
+The square kernal
 
 
 ## 数组
