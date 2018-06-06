@@ -50,11 +50,11 @@ permalink:
   *  Delete_Node_in_a_Linked_List LeetCode 237 `4`
   *  从尾到头打印链表 剑指offer `4`
   *  复杂链表的复制 剑指offer `4`
-  *  删除链表中的重复节点  Leetcode 26 `2`, 剑指offer `3` (Leetcode 27 `2`, Leecode 203 `2`, )
+  *  删除链表中的重复节点  Leetcode 26 `2`, 剑指offer `4` (Leetcode 27 `2`, Leecode 203 `2`, )
   *  链表中环的入口节点 Linked_List_Cycle LeetCode 141
-  *  链表相加  剑指offer `2` (Merge Two Binary Tree 617 `2`)
-  *  链表的部分翻转 剑指offer `2`
-  *  两个单链表的第一公共节点问题
+  *  合并两个排序的链表  剑指offer `4` (Merge Two Binary Tree 617 `2`)
+  *  链表的部分翻转 剑指offer `4`
+  *  两个单链表的第一公共节点问题  剑指offer `4`
   *  链表中倒数第K个节点 剑指offer `2`
   *  Palindrome Linked List LeetCode 234
 {: .notification .is-info}
@@ -70,8 +70,8 @@ permalink:
 {: .notification .is-warning}
 
 ## 字符串
-  *  替换空格 剑指offer `2`  Number_of_Segments_in_a_String LeetCode 434, String_Compression LeetCode 443
-  *  第一个只出现一次的字符位置 剑指offer, LeetCode 387
+  *  替换空格 剑指offer `4`  Number_of_Segments_in_a_String LeetCode 434, String_Compression LeetCode 443
+  *  第一个只出现一次的字符位置 剑指offer `4`, LeetCode 387
   *  把字符串转换成整数
   *  正则表达式匹配
   *  Word_Pattern 290
