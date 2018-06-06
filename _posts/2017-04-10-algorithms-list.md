@@ -55,7 +55,7 @@ permalink:
   *  合并两个排序的链表  剑指offer `4` (Merge Two Binary Tree 617 `2`)
   *  链表的部分翻转 剑指offer `4`
   *  两个单链表的第一公共节点问题  剑指offer `4`
-  *  链表中倒数第K个节点 剑指offer `2`
+  *  链表中倒数第K个节点 剑指offer `4`
   *  Palindrome Linked List LeetCode 234
 {: .notification .is-info}
 
@@ -101,7 +101,7 @@ permalink:
   *  Diameter_of_Binary_Tree LeetCode 543 **后序遍历**
   *  Binary_Tree_Tilt LeetCode 563  **后序遍历**
   *  Minimum_Distance_Between_BST_Nodes  LeetCode 783 **中序遍历** LeetCode 530
-  *  平衡二叉树 **后序遍历** 剑指offer `2`, LeetCode 110  Binary_Tree_Pruning LeetCode 814
+  *  平衡二叉树 **后序遍历** 剑指offer `4`, LeetCode 110  Binary_Tree_Pruning LeetCode 814
   *  把二叉树打印成多行 剑指offer `2`，LeetCode 637
   *  Binary_Tree_Level_Order_Traversal LeetCode 107
   *  按之字形顺序打印二叉树
