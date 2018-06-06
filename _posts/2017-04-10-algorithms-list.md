@@ -105,7 +105,7 @@ permalink:
   *  把二叉树打印成多行 剑指offer `2`，LeetCode 637
   *  Binary_Tree_Level_Order_Traversal LeetCode 107
   *  按之字形顺序打印二叉树
-  *  二叉搜索树的第K个节点,**中序遍历**
+  *  二叉搜索树的第K个节点,**中序遍历**  剑指offer `4`
   *  最近公共祖先,**后序遍历**
   *  Convert_BST_to_Greater_Tree LeetCode 538
   *  Find_Mode_in_Binary_Search_Tree LeetCode 501
