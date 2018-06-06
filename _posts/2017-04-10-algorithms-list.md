@@ -60,8 +60,8 @@ permalink:
 {: .notification .is-info}
 
 ## 栈，队列
-  *  包含min函数的栈 剑指offer `2`
-  *  括号匹配
+  *  包含min函数的栈 剑指offer `4`
+  *  括号匹配  Leetcode 20  `4`
   *  最长括号匹配
   *  计算逆波兰表达式
   *  直方图矩形面积 LeetCode 84 `2`

@@ -9,3 +9,4 @@ math: true
 permalink: 
 ---
 
+## 常见的激活函数
