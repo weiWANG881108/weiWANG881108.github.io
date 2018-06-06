@@ -47,9 +47,9 @@ permalink:
 {: .notification .is-success}
 
 ## 链表
-  *  Delete_Node_in_a_Linked_List LeetCode 237
-  *  从尾到头打印链表 剑指offer `3`
-  *  复杂链表的复制 剑指offer `3`
+  *  Delete_Node_in_a_Linked_List LeetCode 237 `4`
+  *  从尾到头打印链表 剑指offer `4`
+  *  复杂链表的复制 剑指offer `4`
   *  删除链表中的重复节点  Leetcode 26 `2`, 剑指offer `3` (Leetcode 27 `2`, Leecode 203 `2`, )
   *  链表中环的入口节点 Linked_List_Cycle LeetCode 141
   *  链表相加  剑指offer `2` (Merge Two Binary Tree 617 `2`)
@@ -63,10 +63,10 @@ permalink:
   *  包含min函数的栈 剑指offer `4`
   *  括号匹配  Leetcode 20  `4`
   *  最长括号匹配
-  *  计算逆波兰表达式
+  *  计算逆波兰表达式  LeetCode 150  `4`
   *  直方图矩形面积 LeetCode 84 `2`
-  *  两个栈实现队列 剑指offer `2`
-  *  栈的压入、弹出序列
+  *  两个栈实现队列 剑指offer `4`
+  *  栈的压入、弹出序列  剑指offer `4`
 {: .notification .is-warning}
 
 ## 字符串
