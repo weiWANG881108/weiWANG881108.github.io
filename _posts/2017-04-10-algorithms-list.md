@@ -95,7 +95,7 @@ permalink:
   *  二叉树的镜像 **前序遍历**  剑指offer `4`, LeetCode 226 `2`
   *  对称的二叉树 **前序遍历**  剑指offer `4`
   *  二叉搜索树的后序遍历序列
-  *  二叉树的下一个节点（中序遍历）
+  *  二叉树的下一个节点（中序遍历） 剑指offer `4`
   *  二叉树中和为某一值的路径 **前序遍历** 剑指offer `4`, Leetcode 653 `2` LeetCode 112
   *  二叉树的深度 **前序遍历** 剑指offer `4`  LeetCode 257, LeetCode 111
   *  Diameter_of_Binary_Tree LeetCode 543 **后序遍历**
