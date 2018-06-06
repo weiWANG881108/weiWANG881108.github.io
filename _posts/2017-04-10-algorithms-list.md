@@ -72,9 +72,9 @@ permalink:
 ## 字符串
   *  替换空格 剑指offer `4`  Number_of_Segments_in_a_String LeetCode 434, String_Compression LeetCode 443
   *  第一个只出现一次的字符位置 剑指offer `4`, LeetCode 387
-  *  把字符串转换成整数
-  *  正则表达式匹配
-  *  Word_Pattern 290
+  *  把字符串转换成整数 
+  *  正则表达式匹配  剑指offer `4`
+  *  Word_Pattern LeetCode 290
   *  表示数值的字符串
   *  字符串的全排列 Longest Palindrome LeetCode 409, Valid_Anagram LeetCode 242
   *  字符串循环左移
@@ -88,16 +88,16 @@ permalink:
 ## 树
   *  非递归前序，中序，后序遍历
   *  Implement Trie(Prefix Tree) LeetCode 208 Short_Encoding_of_Words LeetCode 820
-  *  重建二叉树 剑指offer `2` Maximum_Binary_Tree LeetCode 654
+  *  重建二叉树 剑指offer Maximum_Binary_Tree LeetCode 654
   *  Convert_Sorted_Array_to_Binary_Search_Tree LeetCode 108
-  *  二叉搜索树与双向链表 **中序遍历**  
+  *  二叉搜索树与双向链表 **中序遍历**  剑指offer `4`
   *  输入两颗二叉树A和B，判断B是否是A的子结构 **前序遍历**  LeetCode 100, LeetCode 572
-  *  二叉树的镜像 **前序遍历**  剑指offer `2`, LeetCode 226 `2`
-  *  对称的二叉树 **前序遍历**
+  *  二叉树的镜像 **前序遍历**  剑指offer `4`, LeetCode 226 `2`
+  *  对称的二叉树 **前序遍历**  剑指offer `4`
   *  二叉搜索树的后序遍历序列
   *  二叉树的下一个节点（中序遍历）
-  *  二叉树中和为某一值的路径 **前序遍历** 剑指offer `2`, Leetcode 653 `2` LeetCode 112
-  *  二叉树的深度 **前序遍历** 剑指offer `2`  LeetCode 257, LeetCode 111
+  *  二叉树中和为某一值的路径 **前序遍历** 剑指offer `4`, Leetcode 653 `2` LeetCode 112
+  *  二叉树的深度 **前序遍历** 剑指offer `4`  LeetCode 257, LeetCode 111
   *  Diameter_of_Binary_Tree LeetCode 543 **后序遍历**
   *  Binary_Tree_Tilt LeetCode 563  **后序遍历**
   *  Minimum_Distance_Between_BST_Nodes  LeetCode 783 **中序遍历** LeetCode 530
