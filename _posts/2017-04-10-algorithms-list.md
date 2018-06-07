@@ -102,9 +102,9 @@ permalink:
   *  Binary_Tree_Tilt LeetCode 563  **后序遍历**
   *  Minimum_Distance_Between_BST_Nodes  LeetCode 783 **中序遍历** LeetCode 530
   *  平衡二叉树 **后序遍历** 剑指offer `4`, LeetCode 110  Binary_Tree_Pruning LeetCode 814
-  *  把二叉树打印成多行 剑指offer `2`，LeetCode 637
+  *  把二叉树打印成多行 剑指offer `4`，LeetCode 637
   *  Binary_Tree_Level_Order_Traversal LeetCode 107
-  *  按之字形顺序打印二叉树
+  *  按之字形顺序打印二叉树  剑指offer `4`
   *  二叉搜索树的第K个节点,**中序遍历**  剑指offer `4`
   *  最近公共祖先,**后序遍历**
   *  Convert_BST_to_Greater_Tree LeetCode 538
