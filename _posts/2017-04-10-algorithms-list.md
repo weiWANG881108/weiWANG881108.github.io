@@ -41,9 +41,10 @@ permalink:
   *  构建乘积数组 剑指offer `2` (LeetCode 724), Shortest_Distance_to_a_Character_LeetCode 821
   *  矩阵链相乘
   *  走棋盘
-  *  完美洗牌算法
+  *  完美洗牌算法  `4`
   *  顺时针打印矩阵   剑指offer `4`
   *  把数组排成最小的数 剑指offer `2.5`
+  *  Minimum Number of Arrows to Burst Balloons LeetCode 452 `4`
 {: .notification .is-success}
 
 ## 链表
