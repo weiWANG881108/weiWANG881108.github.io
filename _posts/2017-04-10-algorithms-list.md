@@ -28,21 +28,21 @@ permalink:
   *  数组中只出现一次的数字 剑指offer `2` (LeetCode 136), LeetCode 389, LeetCode 217 LeetCode 540, LeetCode 219
   *  数组中重复的数字 剑指offer `3`
   *  ---
-  *  最大连续子数组 LeetCode 53 `3`  Maximum_Average_Subarray LeetCode 643
+  *  最大连续子数组 LeetCode 53 `3`  Maximum_Average_Subarray LeetCode 643, LeetCode 674 `4`
   *  和为S的连续正数序列 剑指offer `3`
   *  零子数组
   *  数组的和 和为S的两个数字 剑指offer `3` combinatics sum, leetcode 40 `2`,
   *  Maximum_Product_of_Three_Numbers LeetCode 628 `2`
   *  ---
   *  最长公共子序列
-  *  最长递增子序列
+  *  最长递增子序列  LeetCode 300 `4`
   *  Longet Harmonious Subsequence LeetCode 594
   *  ---
   *  构建乘积数组 剑指offer `2` (LeetCode 724), Shortest_Distance_to_a_Character_LeetCode 821
   *  矩阵链相乘
   *  走棋盘
   *  完美洗牌算法
-  *  顺时针打印矩阵
+  *  顺时针打印矩阵   剑指offer `4`
   *  把数组排成最小的数 剑指offer `2.5`
 {: .notification .is-success}
 
@@ -104,7 +104,7 @@ permalink:
   *  平衡二叉树 **后序遍历** 剑指offer `4`, LeetCode 110  Binary_Tree_Pruning LeetCode 814
   *  把二叉树打印成多行 剑指offer `4`，LeetCode 637
   *  Binary_Tree_Level_Order_Traversal LeetCode 107
-  *  按之字形顺序打印二叉树  剑指offer `4`
+  *  按之字形顺序打印二叉树  s剑指offer `4`
   *  二叉搜索树的第K个节点,**中序遍历**  剑指offer `4`
   *  最近公共祖先,**后序遍历**
   *  Convert_BST_to_Greater_Tree LeetCode 538
@@ -112,10 +112,10 @@ permalink:
 {: .notification .is-danger}
 
 ## 图论
-  *  广度优先算法  `2.5`
-  *  深度优先算法  `2.5`
-  *  单词变换问题 Leetcode 127 `2`,   LeetCode 720
-  *  回文划分问题 Leetcode 131 `3`
+  *  广度优先算法  `4`
+  *  深度优先算法  `4`
+  *  单词变换问题 Leetcode 127 `4`,   LeetCode 720
+  *  回文划分问题 Leetcode 131 `4`
   *  周围区域问题 Leetcode 130 `2`
   *  矩阵中的路径 剑指offer `2`
   *  八皇后问题
@@ -154,7 +154,7 @@ permalink:
   *  Range Addition II LeetCode 598 `3` 
 
 ## 其他
-  *  Fibonacci系数 剑指offer `2.5`
+  *  Fibonacci系数 剑指offer `4`
   *  矩形覆盖 剑指offer `2.5`
   *  数值的整数次方
   *  Excel_Sheet_Column_Number LeetCode 171 `3`
